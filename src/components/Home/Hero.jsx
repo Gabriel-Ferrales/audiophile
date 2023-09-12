@@ -8,9 +8,9 @@ export default function Hero(){
         <>
         <div className="w-full h-px bg-gray-800"/>
 
-        <div className="bg-[url('assets/home/mobile/image-header.jpg')]  
-                        sm:bg-[url('assets/home/tablet/image-header.jpg')]
-                        lg:bg-[url('assets/home/desktop/image-hero.jpg')]
+        <div className="bg-[url('/assets/home/mobile/image-header.jpg')]  
+                        sm:bg-[url('/assets/home/tablet/image-header.jpg')]
+                        lg:bg-[url('/assets/home/desktop/image-hero.jpg')]
                         bg-cover bg-center ">
             <div className="py-36 lg:py-60 flex flex-col justify-center items-center px-6 lg:items-start lg:w-11/12 lg:mx-auto ">
 
