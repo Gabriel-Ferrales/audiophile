@@ -53,7 +53,7 @@ export default function FeaturedArticles() {
             </h2>
 
           <Link to={`details/${zx7.id}`}>
-            <button className="tracking-wider bg-transparent hover:bg-slate-50 border border-slate-950 font-bold uppercase text-slate-950 py-3.5 px-7 mt-10">
+            <button className="tracking-wider bg-transparent border border-slate-950 font-bold uppercase text-slate-950 py-3.5 px-7 mt-10 hover:bg-slate-950 hover:text-white">
               see product
             </button>
           </Link>
@@ -72,7 +72,7 @@ export default function FeaturedArticles() {
             YX1 earphones
           </h2>
           <Link to={`details/${yx1.id}`}>
-            <button className="tracking-wider bg-transparent border border-slate-950 font-bold uppercase text-slate-950 py-3.5 px-7 mt-10 hover:bg-slate-50">
+            <button className="tracking-wider bg-transparent border border-slate-950 font-bold uppercase text-slate-950 py-3.5 px-7 mt-10 hover:bg-slate-950 hover:text-white">
               see product
             </button>
           </Link>
