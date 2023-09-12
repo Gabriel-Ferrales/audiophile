@@ -5,7 +5,7 @@ This is a responsive e-commerce front-end multipage website developed from scrat
 
 ## Demo
 
-You can see a live demo of the website at [Demo Link](#).
+You can see a live demo of the website at [Audiophile - Gabriel Ferrales](https://audiophile-gf.netlify.app/).
 
 ![Screenshot](./public/screenshots/home-ss.png)
 
